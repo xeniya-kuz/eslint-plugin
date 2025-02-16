@@ -1,0 +1,4 @@
+/build
+/node_modules
+# скрытая папка в WebStorm
+.idea
