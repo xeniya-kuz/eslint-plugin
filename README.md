@@ -1,6 +1,6 @@
 # eslint-plugin-path-checker
 
-shecks fsd import paths
+fsd related paths checkers
 
 ## Installation
 
